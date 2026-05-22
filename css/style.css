@@ -1,0 +1,16 @@
+body {
+	background-color: pink;
+}
+.login {
+	max-width: 500px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 6% auto;
+}
+/* dasbor */
+.dasbor {
+	max-width: 1200px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 2% auto;
+}
